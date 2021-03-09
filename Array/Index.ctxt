@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Index
+comment1.params=
+comment1.target=void\ main()
+comment2.params=arr\ n\ x
+comment2.target=int\ firstOcc(int[],\ int,\ int)
+comment3.params=arr\ n\ x
+comment3.target=int\ lastOcc(int[],\ int,\ int)
+numComments=4

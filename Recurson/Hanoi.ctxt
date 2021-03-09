@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Hanoi
+comment1.params=n\ A\ B\ C
+comment1.target=void\ TOH(int,\ char,\ char,\ char)
+numComments=2

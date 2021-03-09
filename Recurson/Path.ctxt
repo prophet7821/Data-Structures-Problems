@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Path
+comment1.params=
+comment1.target=void\ main()
+comment2.params=x\ y
+comment2.target=int\ pathAdd(int,\ int)
+numComments=3

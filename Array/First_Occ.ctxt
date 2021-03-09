@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=First_Occ
+comment1.params=arr\ n\ x
+comment1.target=int\ firstOcc(int[],\ int,\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

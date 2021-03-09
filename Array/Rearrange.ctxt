@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rearrange
+comment1.params=
+comment1.target=void\ main()
+comment2.params=arr\ n
+comment2.target=void\ reArrange(int[],\ int)
+numComments=3
