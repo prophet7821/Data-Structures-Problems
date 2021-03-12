@@ -1,3 +1,6 @@
+/*
+ * Linear Searching
+ */
 import java.util.*;
 class LSearch
 {

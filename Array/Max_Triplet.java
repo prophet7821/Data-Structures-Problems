@@ -1,3 +1,6 @@
+/*
+ * Sum of max three numbers
+ */
 import java.util.*;
 class Max_Triplet
 {

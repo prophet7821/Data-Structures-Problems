@@ -1,3 +1,6 @@
+/*
+ * Printing lowest and second lowest elements
+ */
 import java.util.*;
 class MinandSecMin
 {

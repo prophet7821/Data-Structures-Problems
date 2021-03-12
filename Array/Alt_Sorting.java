@@ -1,3 +1,6 @@
+/*
+ * Printing in greatest lowest order
+ */
 import java.util.*;
 class Alt_Sorting
 {

@@ -1,3 +1,7 @@
+/*
+ * Finding third Largest number in an array
+ */
+
 import java.util.*;
 class Third_Largest
 {

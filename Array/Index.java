@@ -1,3 +1,7 @@
+/*
+ * Finding First and Last Occurence of a number using Linear Search
+ */
+
 import java.util.*;
 class Index
 {

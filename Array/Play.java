@@ -1,3 +1,7 @@
+/*
+ * Swapping adjacent elements if right element is lesser than the left one
+ */
+
 import java.util.*;
 class Play
 {

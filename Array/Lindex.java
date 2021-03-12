@@ -1,3 +1,6 @@
+/*
+ * Finding last Index of an array
+ */
 import java.util.*;
 class Lindex
 {

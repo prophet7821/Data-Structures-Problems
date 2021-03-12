@@ -1,3 +1,6 @@
+/*
+ * As the name suggests its the famous trapping rainwater problem
+ */
 import java.util.*;
 class RainWaterProblem
 {

@@ -1,3 +1,6 @@
+/*
+ * Removing Duplicates form an array
+ */
 import java.util.*;
 class Remove_Duplicates
 {

@@ -1,3 +1,6 @@
+/*
+ * Calculating majority elements in an array
+ */
 import java.util.*;
 class Majority
 {

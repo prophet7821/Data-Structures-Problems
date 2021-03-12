@@ -1,3 +1,6 @@
+/*
+ * Sorting a binary array using Quick Sort(Lomuto Partition)
+ */
 import java.util.*;
 class BArray_Sort
 {

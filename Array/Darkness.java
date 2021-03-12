@@ -1,3 +1,6 @@
+/*This program solves the problem to find number the of days
+ * the room remains lit with provided candles
+ */
 import java.util.*;
 class Darkness
 {

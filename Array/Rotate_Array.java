@@ -1,3 +1,5 @@
+/*This program rotates an array on a given pivot
+*/
 import java.util.*;
 class Rotate_Array
 {

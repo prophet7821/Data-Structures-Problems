@@ -1,3 +1,6 @@
+/*
+ * Finding the leader elements
+ */
 import java.util.*;
 class Right_Great
 {

@@ -1,3 +1,6 @@
+/*
+ * Finding first occurence of a number
+ */
 import java.util.*;
 class First_Occ
 {
