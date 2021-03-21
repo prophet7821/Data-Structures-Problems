@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HeapSort
+comment1.params=arr\ n
+comment1.target=void\ buildheap(int[],\ int)
+comment2.params=arr
+comment2.target=void\ sort(int[])
+comment3.params=arr\ n\ i
+comment3.target=void\ heapify(int[],\ int,\ int)
+comment4.params=arr
+comment4.target=void\ printArray(int[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

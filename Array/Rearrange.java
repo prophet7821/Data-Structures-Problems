@@ -17,18 +17,19 @@ class Rearrange
     }
     static void reArrange(int arr[],int n)
     {
-        int temp[]=new int[n];
-        int tIndex=0;
-        int i=0,j=n-1;
-        while(i<j)
+        int max=n-1,min=0;
+        int max_element=arr[n-1]+1;
+        for(int i=0;i<n;i++)
         {
-            temp[tIndex++]=arr[i++];
-            temp[tIndex++]=arr[j--];
+            if(i%2==0)
+            arr[i]+=(arr[max--]%max_element)*max_element;
+            else
+            arr[i]+=(arr[min++]%max_element)*max_element;
         }
-        if(i==j)
-        temp[tIndex]=arr[i];
-        for(i=0;i<n;i++)
-        System.out.println(temp[i]);
+        for(int i=0;i<n;i++)
+        arr[i]=arr[i]/max_element;
+        for(int i=0;i<n;i++)
+        System.out.println(arr[i]);
     }
 }
 
