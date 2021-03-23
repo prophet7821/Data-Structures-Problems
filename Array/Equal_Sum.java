@@ -1,8 +1,8 @@
 /*
- * Finding Max Sum SubArray using Kadanes Algorithm
+ * 
  */
 import java.util.*;
-class KadaneAlgo
+class Equal_Sum
 {
     public static void main()
     {
@@ -15,17 +15,19 @@ class KadaneAlgo
         {
             arr[i]=sc.nextInt();
         }
-        System.out.println("The maximum contiguous sum subarray is  "+maxSum(arr , n));
     }
-    static int maxSum(int arr[],int n)
+    static String equlibrium(int arr[],int n)
     {
-        int res=arr[0];
-        int maxEnding=arr[0];
-        for(int i=1;i<n;i++)
+        int sum=0,total_sum=0;
+        for(int i=0;i<n;i++)
+        sum+=arr[i];
+        for(int i=n-1;i>=0;i--)
         {
-            maxEnding=Math.max(maxEnding+arr[i],arr[i]);
-            res=Math.max(res,maxEnding);
+            sum-=arr[i];
+            if(total_sum==sum)
+            return "YES";
+            total_sum+=arr[i];
         }
-        return res;
+        return "NO";
     }
 }
