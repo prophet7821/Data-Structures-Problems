@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyHash1
+comment1.params=b
+comment1.target=MyHash1(int)
+comment2.params=k
+comment2.target=void\ insert(java.lang.Integer)
+comment3.params=k
+comment3.target=boolean\ search(java.lang.Integer)
+comment4.params=k
+comment4.target=void\ delete(java.lang.Integer)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
