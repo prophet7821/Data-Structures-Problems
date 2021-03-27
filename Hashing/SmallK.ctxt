@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SmallK
+comment1.params=
+comment1.target=void\ main()
+comment2.params=arr\ n\ k
+comment2.target=int\ findDuplicate(int[],\ int,\ int)
+numComments=3

@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=Distinct
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ main()
 comment2.params=arr
 comment2.target=int\ countDistinct(java.lang.Integer[])
 numComments=3
