@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sum_indexes
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n\ a\ b\ c
+comment2.target=int\ pairCount(int,\ int[],\ int[],\ int[])
+numComments=3
