@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lucky_Number
+comment1.params=
+comment1.target=void\ main()
+comment2.params=N
+comment2.target=int\ isLuckyOrNot(java.lang.Long)
+numComments=3
